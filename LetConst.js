@@ -12,9 +12,10 @@ const number=[4,6];//const e number push kra jabe
 number.push(12);
 console.log(number);
 //4//
-// let sum=0;
-// for (let i = 0; i <14; i++) {//ekhane eror dbe
-//     sum=sum+i;
+var sum=0;
+for (let i = 0; i <14; i++) {//ekhane eror dbe na
+    sum=sum+i;
     
-// }
-// console.log(i);
+}
+console.log(sum);
+
