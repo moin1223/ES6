@@ -19,15 +19,5 @@ console.log(finalResult);
 
 
 
-//multifall calculation
-
-const arro=(tumi,ami)=>{
-    const sum=tumi+ami;
-    return sum
-}
-const yes=arro(3,4)
-console.log(yes);
-
-
 
 
