@@ -33,15 +33,15 @@ const [chotoFriemd, nextFriend, ...bakibondu] = friends;
 console.log(bakibondu);
 
 //5//complexobjec
-const complexObject = {
-    name: "hgy";
-    info: {
-        address: "rohim uddin"
-        leader: "korim"
-    }
-}
-const { leader } = complexObject.info
-confirm.log(leader);
+// const complexObject = {
+//     name: "hgy";
+//     info: {
+//         address: "rohim uddin"
+//         leader: "korim"
+//     }
+// }
+// const { leader } = complexObject.info
+// confirm.log(leader);
 
 
 
