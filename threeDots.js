@@ -16,3 +16,10 @@ console.log(maximum);
 const thaka =[22,11,11];
 const maximum2 = Math.max(...thaka);
 console.log(maximum2);
+
+
+//example
+
+const numbers = [7,4,56,8,8]
+const maxNumber = Math.max(...numbers)
+console.log("maxNumer:",maxNumber)

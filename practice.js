@@ -87,17 +87,17 @@
 
 // 7.callback higerorder fuction
 
-// const calculator = (num) =>{
-//     num=num*3;
-//     console.log(num)
-// }
+const calculator = (num) =>{
+    num=num*3;
+    console.log(num)
+}
 
-// const higerorderFunction = (num,callback) =>{
-//     calculator(num)
+const higerorderFunction = (num,callback) =>{
+    calculator(num)
 
-// }
+}
 
-// higerorderFunction(6,calculator)
+higerorderFunction(6,calculator)
 
 
 
