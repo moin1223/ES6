@@ -59,29 +59,29 @@
 // console.log(allstudentRolls);
 
 // 4. Arrow function
-// const number = (num)=>num*8
-// const gun = number(4)
-// console.log(gun)
+const number = (num)=>num*8
+const gun = number(4)
+console.log(gun)
 
-//5.destructure
-// const student = {
-//     id:1,
-//     name:"moin uddin",
-//     age:22,
-// }
+// 5.destructure
+const student = {
+    id:1,
+    name:"moin uddin",
+    age:22,
+}
 
-// const {id, name, age} = student;
-// console.log(name)
+const {id, name, age} = student;
+console.log(name)
 
-//6.default
+// 6.default
 
-// function calculate(num1, num2) {
-//      num2=num2 || 7
-//     plus = num1 + num2
-//     return plus
-// }
-// const result = calculate(4)
-// console.log(result)
+function calculate(num1, num2) {
+     num2=num2 || 7
+    plus = num1 + num2
+    return plus
+}
+const result = calculate(4)
+console.log(result)
 
 
 
